@@ -1,0 +1,60 @@
+{
+    "buses": {
+        "BUS_GRID": 0,
+        "BUS_T1_RES": 1,
+        "BUS_T2_COM": 2,
+        "BUS_SS1_IND": 3,
+        "BUS_SS2_HOS": 4,
+        "BUS_R1": 5,
+        "BUS_R2": 6,
+        "BUS_R3": 7,
+        "BUS_R4": 8,
+        "BUS_R5": 9,
+        "BUS_R6": 10,
+        "BUS_C1": 11,
+        "BUS_C2": 12,
+        "BUS_C3": 13,
+        "BUS_C4": 14,
+        "BUS_H1": 15
+    },
+    "transformers": {
+        "XFMR_T1": 0,
+        "XFMR_T2": 1,
+        "XFMR_SS1": 2,
+        "XFMR_SS2": 3,
+        "XFMR_R1": 4,
+        "XFMR_R2": 5,
+        "XFMR_R3": 6,
+        "XFMR_R4": 7,
+        "XFMR_R5": 8,
+        "XFMR_R6": 9,
+        "XFMR_C1": 10,
+        "XFMR_C2": 11,
+        "XFMR_C3": 12,
+        "XFMR_C4": 13,
+        "XFMR_H1": 14
+    },
+    "loads": {
+        "LOAD_R1": 0,
+        "LOAD_R2": 1,
+        "LOAD_R3": 2,
+        "LOAD_R4": 3,
+        "LOAD_R5": 4,
+        "LOAD_R6": 5,
+        "LOAD_C1_DIODE": 6,
+        "LOAD_C2_DIODE": 7,
+        "LOAD_SS1_MOTOR": 8,
+        "LOAD_SS2_MOTOR": 9,
+        "LOAD_C3_MISC": 10
+    },
+    "sensors": {
+        "VOLT_SS1_BUS": 3,
+        "CURRENT_T1_XFMR": 0
+    },
+    "fault_points": {
+        "FAULT_GRID_120V": 0,
+        "FAULT_T1_48V": 1,
+        "FAULT_SS1_24V": 3,
+        "FAULT_R1_12V": 5
+    }
+}
